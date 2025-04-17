@@ -24,5 +24,5 @@ Dataset: [Air Quality Data](https://public.tableau.com/app/profile/anna.moskow/v
 ---
 
 ###  Viewer
-[Jupyter Notebook](https://nbviewer.org/github/annamoskow/pollution-analysis/blob/main/pollution-analysis.ipynb)
-[Tableau Dashboard](https://public.tableau.com/app/profile/anna.moskow/viz/PollutionAnalysis_17448368651460/Dashboard1?publish=yes)
+- [Jupyter Notebook](https://nbviewer.org/github/annamoskow/pollution-analysis/blob/main/pollution-analysis.ipynb)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/anna.moskow/viz/PollutionAnalysis_17448368651460/Dashboard1?publish=yes)
